@@ -4,7 +4,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/diebraga/)](https://www.instagram.com/diebraga/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diebraga.developer@gmail.com)](mailto:diebraga.developer@gmail.com)
 
-I'm a Full Stack Developer tech lover a big nerdand React enthusiast! 😂🤷‍
+I'm a Full Stack Developer tech lover a big nerd and React enthusiast! 😂🤷‍
 
-![diebrag's github stats](https://github-readme-stats.vercel.app/api?username=diebraga&show_icons=true&theme=radical)
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+ ![diebraga's github stats](https://github-readme-stats.vercel.app/api?username=diebraga&show_icons=true&theme=dark)
+ </details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebraga&layout=compact&theme=dark)](https://github.com/diebraga/github-readme-stats)
+ </details>
+<br/>
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/diebraga)](https://github.com/diebraga)
