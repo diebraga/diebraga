@@ -6,17 +6,13 @@
 
 Full Stack Developer, tech lover, big nerd and a React enthusiast! 😂🤷‍
 
-<details>
   <summary>:zap: Github Stats</summary>
   
  ![diebraga's github stats](https://github-readme-stats.vercel.app/api?username=diebraga&show_icons=true&theme=dark)
- </details>
 
-<details>
   <summary>:zap: Languages Used</summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebraga&layout=compact&theme=dark)](https://github.com/diebraga/github-readme-stats)
- </details>
 <br/>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/diebraga)](https://github.com/diebraga)
