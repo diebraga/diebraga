@@ -16,7 +16,8 @@ Full Stack Developer, tech lover, big nerd and React enthusiast! 😂🤷‍
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/jquery.png" alt="jquery" height="50" />  
 <img style="margin: 10px" src="https://github.com/reactjs.png" alt="React" height="50" />  
-<img style="margin: 10px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" alt="Next" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" alt="Next" height="50" /> 
+<img style="margin: 10px" src="https://github.com/socketio.png" alt="Socket.io" height="50" />  
 <img style="margin: 10px" src="https://github.com/graphql.png" alt="graphql" height="50" />  
 <img style="margin: 10px" src="https://github.com/apollographql.png" alt="apollographql-client" height="50" />  
 <img style="margin: 10px" src="https://storage.googleapis.com/zenn-user-upload/topics/3b79c3ba2c.jpeg" alt="swr" height="50" />  
