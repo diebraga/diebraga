@@ -1,6 +1,6 @@
 ### Hi there👋, My name is Diego Braga.
 
-Full Stack Developer, tech lover, big nerd and React enthusiast! 😂🤷‍
+Full Stack Developer, tech lover, big nerd I love making cool things for the Web 😂🤷‍
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diebraga/)](https://www.linkedin.com/in/diebraga/)
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/diebraga/)](https://www.instagram.com/diebraga/)
