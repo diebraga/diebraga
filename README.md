@@ -1,6 +1,6 @@
 ### Hi there👋, My name is Diego Braga.
 
-Full Stack Developer, tech lover, big nerd I love making cool things for the Web 😂🤷‍
+Full Stack Developer, tech lover, big nerd I like to make cool things for the web 🤷‍
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diebraga/)](https://www.linkedin.com/in/diebraga/)
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/diebraga/)](https://www.instagram.com/diebraga/)
@@ -39,9 +39,7 @@ Full Stack Developer, tech lover, big nerd I love making cool things for the Web
 </div></td><td valign="top" width="33%">
 
   <br/>
- 
-  <summary>:zap: Languages Used</summary>
-  
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebraga&layout=compact&theme=dark)](https://github.com/diebraga/github-readme-stats)
 <br/>
 
