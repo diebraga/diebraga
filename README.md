@@ -39,12 +39,7 @@ Full Stack Developer, tech lover, big nerd I love making cool things for the Web
 </div></td><td valign="top" width="33%">
 
   <br/>
-  
-  <summary>:zap: Github Stats</summary>
-  
- ![diebraga's github stats](https://github-readme-stats.vercel.app/api?username=diebraga&show_icons=true&theme=dark)
  
-
   <summary>:zap: Languages Used</summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebraga&layout=compact&theme=dark)](https://github.com/diebraga/github-readme-stats)
